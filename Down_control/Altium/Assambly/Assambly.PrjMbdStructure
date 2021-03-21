@@ -1,0 +1,2 @@
+Record=DiagramHierarchy|SourceDocument=Electrical_assambly.MbsDoc|Kind=Multi-board Schematic Module|Designator=1|Source=..\DH_Gate_Driver\DH_Gate_Driver.PrjPcb
+Record=SubProject|SourceDocument=Electrical_assambly.MbsDoc|ProjectPath=..\DH_Gate_Driver\DH_Gate_Driver.PrjPcb
