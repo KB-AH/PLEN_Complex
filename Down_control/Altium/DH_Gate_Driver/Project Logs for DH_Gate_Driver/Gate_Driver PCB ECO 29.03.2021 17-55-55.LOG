@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=P1 Old Footprint=HDR1X2 New Footprint=HDR2X2
+Change Component Footprint: Designator=P5 Old Footprint=HDR1X2 New Footprint=HDR2X2
+Change Component Comment : Designator=P1 Old Comment=Header 2 New Comment=Header 2X2
+Change Component Comment : Designator=P5 Old Comment=Header 2 New Comment=Header 2X2
+Change Component Designator: OldDesignator=R20 NewDesignator=R21
+Change Component Designator: OldDesignator=R21 NewDesignator=R22
+Change Component Designator: OldDesignator=R22 NewDesignator=R23
+Change Component Designator: OldDesignator=R23 NewDesignator=R20
+Added Pin To Net: NetName=H_COLLECTOR Pin=P1-3
+Added Pin To Net: NetName=H_COLLECTOR Pin=P1-4
+Added Pin To Net: NetName=L_COLLECTOR Pin=P5-3
+Added Pin To Net: NetName=L_COLLECTOR Pin=P5-4
