@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=DC-DC_12V_H Pin=J2-1
+Removed Pin From Net: NetName=GND_H Pin=J2-2
+Removed Pin From Net: NetName=DC-DC_12V_L Pin=J5-1
+Removed Pin From Net: NetName=GND_L Pin=J5-2
+Removed Member From Class: ClassName=Gate_Drive Member=J2
+Removed Member From Class: ClassName=Gate_Drive Member=J5
+Added Component: Designator=P9(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P10(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=DC-DC_12V_H Pin=P9-1
+Added Pin To Net: NetName=GND_H Pin=P9-2
+Added Pin To Net: NetName=DC-DC_12V_L Pin=P10-1
+Added Pin To Net: NetName=GND_L Pin=P10-2
+Added Member To Class: ClassName=Gate_Drive Member=Component P9 HW-02-10-G-S-500-200
+Added Member To Class: ClassName=Gate_Drive Member=Component P10 HW-02-10-G-S-500-200
+Added Member To Class: ClassName=Gate_Drive Member=Component R22 CRCW08055K60FKEA
+Added Member To Class: ClassName=Gate_Drive Member=Component R23 CRCW08055K60FKEA
+Added Room: Name=Gate_Drive
